@@ -35,6 +35,6 @@ Just open `index.html` in a modern browser. No build step needed.
 
 ## Troubleshooting
 - If nothing appears: check the **console** for errors. Any missing CORS or path issues usually mean files weren’t uploaded to the right place.
-- If multiplayer over the internet isn’t working, make sure port **8080** is open on your router or use a VPS.
+- If multiplayer over the internet isn’t working, make sure port **8080** is open on your router or use a VPS. 
 
 Enjoy!
