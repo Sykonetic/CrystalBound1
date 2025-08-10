@@ -1,4 +1,4 @@
-# Crystalbound ARPG (FFV x D&D) – Modular Starter
+# Crystalbound ARPG – Modular Starter
 
 This is a **lightweight, modular** version of the browser ARPG so we can keep shipping features without hitting editor size limits.
 
